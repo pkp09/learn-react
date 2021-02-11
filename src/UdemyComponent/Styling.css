@@ -1,0 +1,14 @@
+.style {
+    background: snow;
+    font-size: inherit;
+    border: 1px solid blue;
+    padding: 8px;
+    cursor: pointer
+  }
+
+  .red {
+    color: blue;
+  }
+  .bold {
+    font-weight: bold;
+  }
